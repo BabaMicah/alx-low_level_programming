@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 /**
  * struct listint_s - singly linked list
@@ -11,7 +10,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for Holberton project
+ * for alx-Holberton project
  */
 
 typedef struct listint_s
@@ -25,7 +24,7 @@ typedef struct listint_s
  * @p: pointers of nodes
  * @next: points to the next node
  *
- * Description: singly linked list of pointers
+ * Descpt: singly linked list of pointers
  */
 
 typedef struct listp_s
